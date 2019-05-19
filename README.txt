@@ -7,6 +7,6 @@ REQUIRED LIBRARIES:
 This program requires 3 libraries to run.
 OpenCV, numpy, and python-sc2
 They can be installed in windows by opening up the Command Prompt and typing the following:
-pip3 install --user --upgrade sc2
+pip install sc2
 pip install numpy
 pip install opencv-python
